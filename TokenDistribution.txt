@@ -21,3 +21,9 @@ For utilities, Exchange liquidity, marketing, public welfare
 
 0x6b98fb2118c245724cc799e53cd47c7553ddc7a2 2.264% 
 For community rewards
+
+0x2b99219cdedc387ffa93ddc732dcb572509a06f8 1.8656%
+pancakeswap contract address
+
+Other Address  17.3366%
+Investors
